@@ -25,3 +25,8 @@ nav a.active {
     background-color: #ff3333;
     color: white;
 }
+
+.content-description p { 
+    /* white-space: pre-line; */
+    text-align: justify;
+}
